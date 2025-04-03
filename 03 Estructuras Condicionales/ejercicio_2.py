@@ -1,0 +1,5 @@
+print(1 != 0)
+print(1 == 0)
+print(-130 > 0)
+print(-400 < -250)
+print("hola" >= "chau")

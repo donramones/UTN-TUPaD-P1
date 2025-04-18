@@ -4,4 +4,3 @@ if frase and  frase[-1] in vocales:
     resultado = frase + "!"
 else:
     resultado = frase
-print(resultado)

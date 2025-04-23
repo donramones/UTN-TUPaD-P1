@@ -15,6 +15,6 @@ while nombre != CORTE:
         nombre_mas_joven = nombre
     nombre = input("Ingrese otro nombre (" + CORTE + " para cortar): ")
 if nombre_mas_joven == Nombre_incorrecto:
-    print("no ingresaron personas")
+    print("No ingresaron personas")
 else:
     print("La persona mas joven (",edad_minima," años)es",nombre_mas_joven)

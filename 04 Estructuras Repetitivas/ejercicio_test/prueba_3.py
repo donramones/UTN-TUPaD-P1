@@ -6,6 +6,6 @@ numero = int(input("ingrese un numero entre 1 y 10: "))
 
 if numero >= 1 and numero <= 10:
     for c in range(11):
-        print(numero,"x",c,"=",(numero ** c))
+        print(numero,"x",c,"=",(numero * c))
 else:
     print("No puso un numero entre 1 y 10 ")

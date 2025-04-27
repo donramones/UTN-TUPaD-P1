@@ -1,7 +1,7 @@
 #Elabora un programa que permita al usuario ingresar números enteros y los sume en secuencia
 #El programa debe detenerse y mostrar el total acumulado cuando el usuario ingrese un 0.
 total = 0
-numero = -1  # Inicializamos con un valor diferente de 0 para que entre al bucle
+numero = -1 
 
 while numero != 0:
     try:
@@ -13,4 +13,6 @@ while numero != 0:
         print("Entrada inválida. Por favor, ingresa un número entero.")
 
 print(f"El total de los números ingresados es: {total}")
+
+
 

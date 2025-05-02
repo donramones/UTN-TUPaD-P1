@@ -20,7 +20,7 @@ for cont in range (10):
         impar += 1
     
 print(  "Los numeros ingresados corresponde a : "   )
-print("Numero par: ",par)
-print("Numero impar: ",impar)
-print("Numero negativo: ",negativo)
-print("Numero positivo: ",positivo)
+print("Numeros par: ",par)
+print("Numeros impar: ",impar)
+print("Numeros negativo: ",negativo)
+print("Numeros positivo: ",positivo)

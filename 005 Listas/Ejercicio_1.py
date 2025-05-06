@@ -1,5 +1,3 @@
-mi_lista = [True, 3, "Hola", 3.14, False]
-
-mi_sublista = mi_lista[1:4]
-
-print(mi_sublista)
+#Crear una lista con los números del 1 al 100 que sean múltiplos de 4. Utilizar la función range.
+lista_numeros_multiplo_4 = list(range (4,101,4))
+print(lista_numeros_multiplo_4)

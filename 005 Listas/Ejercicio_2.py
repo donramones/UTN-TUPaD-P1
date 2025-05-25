@@ -5,3 +5,5 @@ lista_mix=["CAB",1,2,3,"UTN",99]
 penultimo_lista=lista_mix[-2]
 print(penultimo_lista)
 
+
+

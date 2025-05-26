@@ -10,5 +10,7 @@ def segundos_a_horas(segundos):
 
 #programa principal
 
-segundos =int(input("Ingrese los segundos: "))
+segundos =float(input("Ingrese los segundos: "))
+horas = segundos_a_horas(segundos)
+print(f"los {segundos} segundos ingresados corresponde a {horas} horas")
 

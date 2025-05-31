@@ -2,9 +2,9 @@
 #Posteriormente, muestra la serie completa hasta la posición que el usuario especifique.
 
 def fibonnaci (n):
-    if == 0 or n == 1:
+    if n == 0 or n == 1:
         return n
     else:
         return fibonnaci(n-1) + fibonnaci (n-2)
     
-print(fibonnaci(6))
+print(fibonnaci(5))
